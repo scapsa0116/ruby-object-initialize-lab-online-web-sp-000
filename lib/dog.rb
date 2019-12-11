@@ -16,11 +16,11 @@ class Dog
   
  
   
- fido = Dog.new("Fido")
+ Dog.new("Fido")
 
   
   
-  pug = Dog.new("Pug")
+Dog.new("Pug")
 
 end
   
