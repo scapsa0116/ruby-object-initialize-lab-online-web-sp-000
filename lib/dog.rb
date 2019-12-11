@@ -16,7 +16,7 @@ class Dog
   
  
   
- fido = Dog.new("fido")
+ fido = Dog.new("Fido")
 
   
   
