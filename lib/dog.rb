@@ -3,7 +3,7 @@ class Dog
   
 end
   
-  Dog.new("Fido", "Pug")
+  Dog.new("Fido")
  
   
 # Dog.new("Fido")
