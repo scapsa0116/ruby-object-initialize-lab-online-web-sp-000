@@ -23,14 +23,14 @@ class Dog
   def breed
     @breed
   end
-  
+  fido = Dog.new("Fido", "Pug")
  
   
- Dog.new("Fido")
+# Dog.new("Fido")
 
   
   
-Dog.new("Pug")
+# Dog.new("Pug")
 
 end
   
