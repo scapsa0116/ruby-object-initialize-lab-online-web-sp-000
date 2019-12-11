@@ -7,16 +7,12 @@ class Dog
   
  
   
- fido = Dog.new
- fido.name = "Fido"
- puts fido
+ fido = Dog.new("fido")
 
   
   
-  pug = Dog.new
-pug.name = "Pug"
-puts "pug"
-  
+  pug = Dog.new("Pug")
+
 end
   
   
